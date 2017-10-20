@@ -109,6 +109,10 @@ footer{
 	margin-bottom: 10px;
 }
 
+footer #footer-header{
+	margin-top: 10px;
+}
+
 #copyright{
 	width: 100%;
 	text-align: left;
